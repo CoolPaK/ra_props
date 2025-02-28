@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { ITasks } from "./models";
 import "./SelectTask.css";
 
