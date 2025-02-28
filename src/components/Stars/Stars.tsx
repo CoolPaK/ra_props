@@ -1,3 +1,4 @@
+/* eslint-disable prefer-const */
 import { useState } from 'react';
 import Star from './Star';
 import './Stars.css';
